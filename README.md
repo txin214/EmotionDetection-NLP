@@ -1,4 +1,4 @@
-# CS769-Project
+# NLP-School-Project
 
 The baseline is adapted from https://github.com/monologg/GoEmotions-pytorch.
 
